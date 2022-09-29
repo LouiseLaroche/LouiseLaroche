@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [Ultimate List](https://github.com/LouiseLaroche/UltimateList-Front)
 
-- 🌱 I’m currently learning **vue.js, laravel, node.js, flutter, graphql** with O'clock school
+- 🌱 I’m currently learning **vue.js, laravel, docker, node.js, flutter, graphql** with O'clock school
 
 - 👨‍💻 All of my projects are available at [https://louiselaroche.github.io](https://louiselaroche.github.io/)
 
