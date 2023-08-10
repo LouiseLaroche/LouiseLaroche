@@ -5,13 +5,13 @@
 
 - 🔭 I’m currently working on [Ultimate List](https://github.com/LouiseLaroche/UltimateList-Front)
 
-- 🌱 I’m currently learning **vue.js, laravel, docker, node.js, flutter, graphql** with O'clock school
+- 🌱 I work with **nodejs, react, redux, laravel, symfony**
 
 - 👨‍💻 All of my projects are available at [https://louiselaroche.github.io](https://louiselaroche.github.io/)
 
-- 💬 Ask me about **react & css**
+- 💬 Ask me about **javascript & php**
 
-- 📫 How to reach me **llarocheprigent@gmail.com**
+- 📫 Reach me at **llarocheprigent@gmail.com**
 
 - 🎮 I love cats and videogames :]
 
